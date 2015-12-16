@@ -56,3 +56,6 @@ You are also strongly encouraged to share your tutorial by submitting it to a co
 
 You may of course communicate with others on your post. However, every WDI student is expected to have written their own unique tutorial.
 
+## If you're feeling off track...
+
+Check out this custom no-deliverable study plan! - https://github.com/ga-dc/wdi7/blob/master/holidays.md
